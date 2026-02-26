@@ -1,0 +1,22 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Generic python files
+*.pyc
+__pycache__/
+
+# Dependencies lock file
+*.lock
